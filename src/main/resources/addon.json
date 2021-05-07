@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "MURD",
+  "mainClass": "de.murd.Murd",
+  "description": "",
+  "version": 2,
+  "author": "anonym",
+  "category": 2,
+  "icon": ""
+}
